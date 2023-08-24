@@ -1,0 +1,6 @@
+name: LagFinder
+version: '${project.version}'
+main: net.daechler.lagfinder.LagFinder
+api-version: '1.20'
+authors: [Daechler]
+description: Prevent lag on your server.
